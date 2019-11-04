@@ -1,6 +1,6 @@
 CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
-"26164","NN92SE 4","Inchaffray Abbey","Abbey (Medieval)","295368","722515","PERTH AND KINROSS","PERTHSHIRE","MADDERTY","NN 95368 22515","http://canmore.org.uk/site/26164",
-"30556","NO23NW 130","Coupar Angus, Queen Street, Abbey Church","Abbey (12th Century), Architectural Fragment(S) (Period Unassigned), Church (Period Unassigned), Gatehouse (Period Unassigned), Gravestone(S) (Period Unassigned), War Memorial (20th Century), Effigy","322327","739802","PERTH AND KINROSS","PERTHSHIRE","COUPAR ANGUS","NO 22327 39802","http://canmore.org.uk/site/30556",
-"40830","NS20NE 70","Crossraguel Abbey","Abbey (Medieval)","227539","608334","SOUTH AYRSHIRE","AYRSHIRE","KIRKOSWALD","NS 27539 08334","http://canmore.org.uk/site/40830",
-"47271","NS89SW 4","Cambuskenneth Abbey","Abbey (Medieval), Bell Tower (Period Unassigned)","280852","693961","STIRLING","STIRLINGSHIRE","STIRLING","NS 80852 93961","http://canmore.org.uk/site/47271",
-"57020","NT62SE 150","Jedburgh Abbey","Abbey (Medieval)","365038","620448","SCOTTISH BORDERS, THE","ROXBURGHSHIRE","JEDBURGH","NT 65038 20448","http://canmore.org.uk/site/57020",
+26164,NN92SE 4,Inchaffray Abbey,Abbey (Medieval),295368,722515,PERTH AND KINROSS,PERTHSHIRE,MADDERTY,NN 95368 22515,http://canmore.org.uk/site/26164
+30556,NO23NW 130,"Coupar Angus, Queen Street, Abbey Church","Abbey (12th Century), Architectural Fragment(S) (Period Unassigned), Church (Period Unassigned), Gatehouse (Period Unassigned), Gravestone(S) (Period Unassigned), War Memorial (20th Century), Effigy",322327,739802,PERTH AND KINROSS,PERTHSHIRE,COUPAR ANGUS,NO 22327 39802,http://canmore.org.uk/site/30556
+40830,NS20NE 70,Crossraguel Abbey,Abbey (Medieval),227539,608334,SOUTH AYRSHIRE,AYRSHIRE,KIRKOSWALD,NS 27539 08334,http://canmore.org.uk/site/40830
+47271,NS89SW 4,Cambuskenneth Abbey,"Abbey (Medieval), Bell Tower (Period Unassigned)",280852,693961,STIRLING,STIRLINGSHIRE,STIRLING,NS 80852 93961,http://canmore.org.uk/site/47271
+57020,NT62SE 150,Jedburgh Abbey,Abbey (Medieval),365038,620448,"SCOTTISH BORDERS, THE",ROXBURGHSHIRE,JEDBURGH,NT 65038 20448,http://canmore.org.uk/site/57020
